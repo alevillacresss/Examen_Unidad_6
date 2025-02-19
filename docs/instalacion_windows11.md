@@ -1,6 +1,6 @@
-Guía Completa para la Instalación de Windows 11
+# Guía Completa para la Instalación de Windows 11
 
-![ima1](imagenWORD.png){width="3.75in" height="3.75in"}
+![ima1](imagenWORD.png)
 
 La llegada de Windows 11 ha sido uno de los lanzamientos más esperados
 por los usuarios de computadoras de todo el mundo. Este nuevo sistema
@@ -15,32 +15,32 @@ básica, pasando por la personalización y las actualizaciones, te
 mostraremos todo lo que necesitas saber para aprovechar al máximo
 Windows 11. ¡Sigue leyendo y descubre todo lo que necesitas saber!
 
-Guía completa: Instalación de Windows 11 en sólo unos pasos
+## Guía completa: Instalación de Windows 11 en sólo unos pasos
 
 Windows 11 es el último sistema operativo de Microsoft y muchos usuarios
 están emocionados por probarlo. Si eres uno de ellos, ¡no te preocupes!
 En esta guía completa te enseñaremos cómo instalar Windows 11 en sólo
 unos pasos.
 
-Paso 1: Verifica si tu equipo es compatible con Windows 11\
+1. Paso 1: Verifica si tu equipo es compatible con Windows 11\
 Antes de comenzar a instalar Windows 11, debes verificar si tu equipo es
 compatible con este sistema operativo. Para hacerlo, puedes utilizar la
 herramienta PC Health Check de Microsoft. Si tu equipo es compatible,
 ¡sigue adelante!
 
-Paso 2: Descarga la imagen ISO de Windows 11\
+2. Paso 2: Descarga la imagen ISO de Windows 11\
 Una vez que hayas verificado la compatibilidad de tu equipo, debes
 descargar la imagen ISO de Windows 11. Puedes hacerlo desde la página
 oficial de Microsoft. Asegúrate de elegir la versión correcta para tu
 equipo (32 o 64 bits).
 
-Paso 3: Crea un USB de arranque con la imagen ISO de Windows 11\
+3. Paso 3: Crea un USB de arranque con la imagen ISO de Windows 11\
 Una vez que hayas descargado la imagen ISO, debes crear un USB de
 arranque con ella. Para hacerlo, puedes utilizar la herramienta Media
 Creation Tool de Microsoft. Sigue las instrucciones en pantalla y
 asegúrate de tener un USB con suficiente capacidad de almacenamiento.
 
-Paso 4: Configura la BIOS de tu equipo\
+4. Paso 4: Configura la BIOS de tu equipo\
 Antes de instalar Windows 11, debes configurar la BIOS de tu equipo para
 que arranque desde el USB. Para hacerlo, reinicia tu equipo y presiona
 la tecla correspondiente para entrar en la BIOS (puede variar según el
@@ -48,13 +48,13 @@ fabricante). Busca la opción de \"Boot\" o \"Arranque\" y selecciona el
 USB como la primera opción de
 arranque.[](https://digitalgrow.es/campos-personalizados-en-wordpress/)
 
-Paso 5: Instala Windows 11\
+5. Paso 5: Instala Windows 11\
 Una vez que hayas configurado la BIOS, guarda los cambios y reinicia tu
 equipo. El proceso de instalación de Windows 11 comenzará
 automáticamente. Sigue las instrucciones en pantalla y elige las
 opciones que mejor se adapten a tus necesidades.
 
-Paso 6: Configura Windows 11\
+6. Paso 6: Configura Windows 11\
 Una vez que hayas instalado Windows 11, debes configurarlo según tus
 preferencias. Esto incluye la configuración de la red, la creación de
 una cuenta de usuario, la personalización de la interfaz y la
@@ -64,7 +64,7 @@ Verifica la compatibilidad de tu equipo, descarga la imagen ISO, crea un
 USB de arranque, configura la BIOS, instala Windows 11 y configúralo
 según tus necesidades. ¡Disfruta de tu nuevo sistema operativo!
 
-Preparación indispensable: 5 pasos clave antes de instalar Windows 11
+## Preparación indispensable: 5 pasos clave antes de instalar Windows 11
 
 Si estás pensando en instalar Windows 11 en tu ordenador, es importante
 que tomes en cuenta algunos pasos clave antes de hacerlo. Estos pasos te
@@ -73,7 +73,7 @@ sistema operativo y a evitar cualquier problema durante el proceso de
 instalación. En esta guía completa, te mostraremos los 5 pasos
 indispensables que debes seguir antes de instalar Windows 11.
 
-Paso 1: Revisa los requisitos del sistema
+7. Paso 1: Revisa los requisitos del sistema
 
 Antes de instalar Windows 11, es importante que compruebes que tu
 ordenador cumple con los requisitos del sistema. Estos requisitos
@@ -81,7 +81,7 @@ incluyen un procesador de al menos 1 GHz, 4 GB de RAM y 64 GB de
 almacenamiento interno. Además, tu computadora deberá contar con una
 tarjeta gráfica compatible con DirectX 12 o posterior.
 
-Paso 2: Realiza una copia de seguridad de tus archivos
+8. Paso 2: Realiza una copia de seguridad de tus archivos
 
 Es importante que realices una copia de seguridad de todos tus archivos
 antes de instalar Windows 11. De esta manera, podrás recuperar tus datos
@@ -89,14 +89,14 @@ en caso de que algo salga mal durante el proceso de instalación. Puedes
 hacer una copia de seguridad de tus archivos en un disco duro externo,
 una unidad flash USB o en la nube.
 
-Paso 3: Desinstala programas innecesarios
+9. Paso 3: Desinstala programas innecesarios
 
 Antes de instalar Windows 11, es recomendable que desinstales todos los
 programas que no utilizas o que ya no necesitas. Esto te ayudará a
 liberar espacio en tu disco duro y a evitar cualquier posible conflicto
 durante la instalación del nuevo sistema operativo.
 
-Paso 4: Actualiza tus controladores
+10. Paso 4: Actualiza tus controladores
 
 Es importante que actualices todos los controladores de tu ordenador
 antes de instalar Windows 11. Esto te ayudará a asegurarte de que tus
@@ -104,7 +104,7 @@ dispositivos funcionen correctamente con el nuevo sistema operativo.
 Puedes actualizar tus controladores manualmente o utilizar un programa
 especializado para hacerlo de manera automática.
 
-Paso 5: Descarga la herramienta de creación de medios
+11. Paso 5: Descarga la herramienta de creación de medios
 
 Por último, deberás descargar la herramienta de creación de medios de
 Microsoft para instalar Windows 11. Esta herramienta te ayudará a crear
@@ -116,7 +116,7 @@ Siguiendo estas recomendaciones, podrás asegurarte de que tu computadora
 esté lista para el nuevo sistema operativo y evitar cualquier posible
 problema durante el proceso de instalación.
 
-¿Tu PC es compatible con Windows 11? Descubre cómo saberlo con estos
+#### ¿Tu PC es compatible con Windows 11? Descubre cómo saberlo con estos
 simples pasos
 
 Si estás pensando en actualizar tu sistema operativo a Windows 11, lo
@@ -161,7 +161,7 @@ siguientes requisitos mínimos:
 Si tu PC cumple con estos requisitos mínimos, podrás ejecutar Windows 11
 sin problemas.
 
-Conclusión
+#### Conclusión
 
 Comprobar la compatibilidad de tu PC con Windows 11 es el primer paso
 que debes seguir si estás pensando en actualizar tu sistema operativo.

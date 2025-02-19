@@ -1,8 +1,8 @@
-iPhone 16 - Especificaciones técnicas
+# IPhone 16 - Especificaciones técnicas
 
-Año de presentación: 2024
+## Año de presentación: 2024
 
-Acabado
+#### Acabado
 
 -   Negro
 -   blanco
@@ -14,20 +14,20 @@ Diseño de aluminio, Parte delantera con Ceramic Shield
 de última generación, Parte trasera de vidrio tintado en masa
 (negro, rosa, verde azulado y azul ultramar)
 
-Capacidad
+#### Capacidad
 
 -   128 GB
 -   256 GB
 -   512 GB
 
-Dimensiones y peso^2^
+#### Dimensiones y peso^2^
 
 -   Ancho: 7,16 cm
 -   Alto: 14,76 cm
 -   Grosor: 0,78 cm
 -   Peso: 170 g
 
-Pantalla
+#### Pantalla
 
 -   Pantalla Super Retina XDR
 -   Pantalla OLED de 6,1 pulgadas (15,54 cm) en diagonal
@@ -56,14 +56,14 @@ Resistencia a las salpicaduras, el agua y el polvo^3^
 Calificación IP68 según la norma IEC 60529 (hasta 6 metros
 de profundidad durante un máximo de 30 minutos)
 
-Chip
+#### Chip
 
 -   Chip A18
 -   Nueva CPU de 6 núcleos (2 de rendi­miento y 4 de eficiencia)
 -   Nueva GPU de 5 núcleos
 -   Nuevo Neural Engine de 16 núcleos
 
-Cámara
+#### Cámara
 
 Sistema avanzado de cámara dual
 
@@ -100,7 +100,7 @@ Sistema avanzado de cámara dual
 -   Geoetiquetado de fotos
 -   Captura de imagen en formato HEIF y JPEG
 
-Grabación de vídeo
+#### Grabación de vídeo
 
 -   Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision
 -   Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision
@@ -127,7 +127,7 @@ Grabación de vídeo
 -   Reducción de ruido del viento
 -   Mezcla de Audio
 
-Cámara TrueDepth
+#### Cámara TrueDepth
 
 -   Cámara de 12 Mpx
 -   Apertura de ƒ/1,9
@@ -155,11 +155,11 @@ Cámara TrueDepth
 -   Estabili­zación de vídeo con calidad de cine (4K, 1080p y 720p)
 -   Audio espacial y grabación en estéreo
 
-Face ID
+#### Face ID
 
 Reconoci­miento facial mediante la cámara TrueDepth
 
-Apple Pay
+#### Apple Pay
 
 -   Usa Face ID para pagar en tiendas, apps y páginas web con tu iPhone
 -   Confirma las compras realizadas con Apple Pay en el Mac
@@ -184,7 +184,7 @@ Modelo A3287\* Modelo A3290\*
 -   UMTS/HSPA+/DC‑HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100 MHz)
 -   GSM/EDGE (850, 900, 1.800 y 1.900 MHz)
 
-Todos los modelos
+#### Todos los modelos
 
 -   5G (sub‑6 GHz) con MIMO 4x4^6^
 -   LTE Gigabit con MIMO 4x4 y LAA^6^
@@ -260,9 +260,8 @@ Siri^11^
 
 Botones y conectores externos
 
-![ima2](imagen2.png){width="3.95833in" height="6.95833in"}
-![ima3](imagen3.png){width="3.95833in" height="6.4375in"}
-
+![ima2](imagen2.png)
+![ima3](imagen3.png)
 1.  Cámara delantera
 2.   Botón lateral
 3.   Control de la cámara
